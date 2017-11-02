@@ -1,5 +1,5 @@
 --
--- https://github.com/olback/code-snippets/tree/master/lua/computercraft/bucket
+-- https://github.com/olback/computercrafr/bucket
 --
 
 local args = { ... }
