@@ -1,5 +1,5 @@
 --
--- https://github.com/olback/computercrafr/bucket
+-- https://github.com/olback/computercraft/bucket
 --
 
 local args = { ... }
