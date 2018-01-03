@@ -1,5 +1,6 @@
-
--- echo by olback
+--
+-- https://github.com/olback/computercraft/blob/master/utils/echo.lua
+--
 
 local args = { ... }
 local argsLen = table.getn(args)
@@ -34,7 +35,6 @@ function openFile(string, mode, file)
   end
 
 end
-
 
 
 if argsLen == 0 then

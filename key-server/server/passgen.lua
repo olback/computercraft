@@ -1,6 +1,6 @@
 --
 --	Password hasher for CC login system
---	github.com/olback
+--	https://github.com/olback/computercraft/blob/master/key-server/server/passgen.lua
 --
 
 local hashFile = "password_hash.sha256" -- Don't change this unless you know what you're doing!

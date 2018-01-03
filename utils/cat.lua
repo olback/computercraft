@@ -1,5 +1,6 @@
-
--- cat by olback
+--
+-- https://github.com/olback/computercraft/blob/master/utils/cat.lua
+--
 
 local args = { ... }
 

@@ -1,9 +1,10 @@
+--
+-- https://github.com/olback/computercraft/blob/master/utils/wget.lua
+--
 
--- wget by olback
-
-local version = "1.0D"
+local version = "1.0"
 local args = { ... }
-local headers = {["User-Agent"] = "wget by olback " .. version.. " like Chrome but better - Steve Jobs"}
+local headers = {["User-Agent"] = "wget by olback " .. version}
 
 print("Downloading...")
 local download = http.get(args[1], headers)

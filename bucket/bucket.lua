@@ -1,4 +1,5 @@
 --
+-- Simple self-hosted pastebin clone.
 -- https://github.com/olback/computercraft/bucket
 --
 

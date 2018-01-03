@@ -1,6 +1,6 @@
 --
 --  Server script for CC login system
---  github.com/olback
+--  https://github.com/olback/computercraft/blob/master/key-server/server/startup.lua
 --
 
 local modemSide = "top" -- Wireless/Wired modem
